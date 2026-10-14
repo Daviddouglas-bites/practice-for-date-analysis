@@ -1,3 +1,11 @@
+<p align="center">
+  <i>Eu me olhei no espelho, eu me senti mais velho<br>
+  Eu me senti mais belo, eu tramei meu futuro<br>
+  E tremi pelo passar dos dias<br>
+  Confesso, tomei, mas zelo.</i>
+</p>
+
+
 # practice-for-date-analysis
 
 Learning Python, Artificial Intelligence (AI), and data analysis through free online courses and practical projects focused on the public sector.
